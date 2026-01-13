@@ -5,7 +5,7 @@
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy",
-	"build-ghpages": "npx @11ty/eleventy --formats=html,gif,jpg --pathprefix=tarpie-mika.github.io"
+	"build-ghpages": "npx @11ty/eleventy --formats=html,md,gif,jpg --pathprefix=tarpie-mika.github.io"
   },
   "license": "MIT",
   "dependencies": {
