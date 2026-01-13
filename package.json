@@ -4,7 +4,7 @@
   "description": "Companion code to the “6 Minutes to Build a Blog from Scratch” tutorial.",
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy",
+    "build": "npx @11ty/eleventy --formats=jpg,gif",
 	"build-ghpages": "npx @11ty/eleventy --pathprefix=tarpie-mika.github.io"
   },
   "license": "MIT",
