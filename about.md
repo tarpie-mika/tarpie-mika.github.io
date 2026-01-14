@@ -5,7 +5,6 @@ layout: layout.html
 youarehere:        ^ you are here
 ---
 
-<!doctype html>
 <html lang="en">
 	<head>
 		<style>
