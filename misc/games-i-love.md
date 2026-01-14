@@ -1,5 +1,6 @@
 ---
 title: Games I love <span class="emoji">💖</span>
+altTitle: Games I love 💖
 ---
 
 <html lang="en">

@@ -1,5 +1,6 @@
 ---
 title: I think i might be gay
+altTitle: I think i might be gay
 description: <span class="emoji">🏳️‍🌈🏳️‍⚧️</span> Mum, I'm a faggot
 ---
 
@@ -10,6 +11,9 @@ description: <span class="emoji">🏳️‍🌈🏳️‍⚧️</span> Mum, I'm 
 		</style>
 	</head>
 	<body>
-		<a href="https://en.wikipedia.org/wiki/Transgender"><img src="/posts/001/fox.jpg" alt="minecwaft fobs" width="100" height="100"/></a>
-	</body>
+        <p>
+            <br>I think I might not be entirely straight...<br>
+		    <a href="https://en.wikipedia.org/wiki/Transgender"><img src="/posts/001/fox.jpg" alt="minecwaft fobs" width="100" height="100"/></a>
+        </p>
+    </body>
 </html>

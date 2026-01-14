@@ -1,5 +1,6 @@
 ---
 title: Images I like <span class="emoji">👀</span>
+altTitle: Images I like 👀
 ---
 
 <html lang="en">
