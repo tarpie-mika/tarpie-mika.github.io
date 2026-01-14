@@ -3,7 +3,6 @@ title: I think i might be gay
 description: <span class="emoji">🏳️‍🌈🏳️‍⚧️</span> Mum, I'm a faggot
 ---
 
-<!doctype html>
 <html lang="en">
 	<head>
 		<style>

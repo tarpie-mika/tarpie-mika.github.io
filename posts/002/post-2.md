@@ -3,7 +3,6 @@ title: Post 2
 description: this is a second description
 ---
 
-<!doctype html>
 <html lang="en">
 	<head>
 		<style>

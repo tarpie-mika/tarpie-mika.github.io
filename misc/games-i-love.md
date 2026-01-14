@@ -2,7 +2,6 @@
 title: Games I love <span class="emoji">💖</span>
 ---
 
-<!doctype html>
 <html lang="en">
 	<head>
 		<style>
