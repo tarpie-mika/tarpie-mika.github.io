@@ -1,6 +1,5 @@
 ---
-title: Post 2
-description: this is a second description
+title: Games I love <span class="emoji">💖</span>
 ---
 
 <!doctype html>

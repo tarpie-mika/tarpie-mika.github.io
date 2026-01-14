@@ -1,28 +1,45 @@
 ---
 layout: layout.html
+youarehere:  ^ you are here
 ---
 <html>
 	<body>
 		<p>
-			Welcome to my lil blog :3 uwu ❤️✨
+			<br>
+			Welcome to my lil blog :3 uwu <span class="emoji">❤️✨</span>
 			<br>
 			<img src="/homeMedia/sausage.gif" height="100" width="100" />
 			<br><br>
-
+			
 			<u><h2>Pages:</h2></u>
-			<a href="/miscSites/images-i-like/">Images I like 💖</a>
-			<br><br><br>
+			{% for misc in collections.misc %}
+			<h3 style="margin-top: -0px;">✧ <a href="{{ misc.url }}">{{ misc.data.title }}</a></h3>
+			{% endfor %}
+			<br><br>
 
 			<u><h2>Blog posts:</h2></u>
 			{% for post in collections.post %}
-			<h3 style="margin-top: -0px;"><a href="{{ post.url }}">⟫ {{ post.data.title }}</a></h3>
+			<h3 style="margin-top: -0px;">✧ <a href="{{ post.url }}">{{ post.data.title }}</a></h3>
 			<p style="margin-top: -20px;">{{ post.data.description }}</p>
 			{% endfor %}
 			
 			<br><br>
 			<p>
 				<b>Visit my friends!</b><br>
-				✨ <a href="https://skejs.eu">ember!!</a> (thank you for all your help with this)
+				<span class="emoji">✨</span> <a href="https://skejs.eu">ember!!</a> (thank you for all your help with this)
+			</p>
+
+			<br><br>
+			<p>
+				<b>Socials, go follow me elsewhere!</b><br>
+				<div style="margin-top: -10px;">
+					<img style="vertical-align:middle" src="/homeMedia/twitter.png" height="24px" alt="twitter logo">
+					<a href="https://twitter.com/tarpy_/">Tarpie on Twitter</a>
+				</div>
+				<div style="margin-top: 5px;">
+					<img style="vertical-align:middle" src="/homeMedia/linkedin.png" height="24px" alt="twitter logo">
+					<a href="https://www.linkedin.com/in/mika-emily-fladstrand/">Tarpie linkedIn</a>
+				</div>
 			</p>
 		</p>
 
