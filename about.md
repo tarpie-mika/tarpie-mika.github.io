@@ -14,7 +14,7 @@ youarehere:        ^ you are here
 	<body>
         
         <br>
-        Hi i'm Mika (or tarpie)!<br>
+        Hi I'm Mika (or Tarpie)!<br>
         She/her/it, pan🍳<br>
                 
         <img src="/about/mika.jpg" width="300" alt="Picture of Mika"> <-- that's me! (✿◕‿◕✿)
@@ -22,8 +22,7 @@ youarehere:        ^ you are here
         <div class="boxPink"> 
             I'm just a gal in my 20's living my best doggy tranny life.<br>
             I have a background in electrical engineering, and work with trains(!!). I have two 3d printers, 
-            a good old Prusa i3 MK3, and a newer Prusa CORE ONE kit.<br>
-            I would include a picture of them but the workshop is really messy right now... ^^'
+            a good old Prusa i3 MK3, and a newer Prusa CORE ONE kit. I would include a picture of them but the workshop is really messy right now... ^^'
             <br><br>
             I build nerf blasters and I'll include some pictures in a post or something idk. 
             Stick around and see what i come up with! This page will most likely just contain whatever is

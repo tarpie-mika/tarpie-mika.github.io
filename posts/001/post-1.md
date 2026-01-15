@@ -1,6 +1,6 @@
 ---
-title: I think i might be gay
-altTitle: I think i might be gay
+title: I think I might be gay
+altTitle: I think I might be gay
 description: <span class="emoji">🏳️‍🌈🏳️‍⚧️</span> Mum, I'm a faggot
 ---
 
