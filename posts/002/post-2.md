@@ -1,15 +1,16 @@
 ---
 title: Post 2
-description: this is a second description
+description: this is a second description.
 ---
 
 <html lang="en">
 	<head>
 		<style>
-	
+			
 		</style>
 	</head>
 	<body>
-		
+		<br>
+		<p>There's nothing here yet...</p>
 	</body>
 </html>

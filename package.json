@@ -5,7 +5,7 @@
   "scripts": {
     "start": "npx @11ty/eleventy --formats=html,md,gif,jpg,png,svg,webp,mp4 --serve",
     "build": "npx @11ty/eleventy",
-	"build-ghpages": "npx @11ty/eleventy --formats=html,md,gif,jpg,png,svg,webp,mp4 --pathprefix=tarpie.xyz"
+	  "build-ghpages": "npx @11ty/eleventy --formats=html,md,gif,jpg,png,svg,webp,mp4 --pathprefix=tarpie.xyz"
   },
   "license": "MIT",
   "dependencies": {

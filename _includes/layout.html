@@ -2,7 +2,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>{{ altTitle | default: "Tarpies Chow" }}</title>
+		<title>{{ altTitle | default: "Tarpie's Chow" }}</title>
 		<link rel="icon" type="image/png" href="/homeMedia/icon.png">
 		<style>
 			html * {
@@ -16,6 +16,7 @@
 
 			.boxInvis{
                 width: 700px;
+				border: 5px solid #FFC1FA;
                 padding: 20px;
                 margin: 0px;
 				text-align: justify;
@@ -36,13 +37,13 @@
 			}
 		</style>
 	</head>
-	<body style="background-color:#FFC1FA;">
+	<body style="background-color:#FFC1FA;" id="pageTop">
 		<div class="boxGlobal">
 			<header>
 				<h1>
 					<a href="/">
 						<img style="vertical-align: middle;" src="/homeMedia/icon.png" height="35"></a>
-					{{ title | default: "Tarpies Chow" }}
+					{{ title | default: "Tarpie's Chow" }}
 				</h1>
 			</header>
 			<main>
@@ -55,6 +56,8 @@
 				
 				{{ content }}
 				
+				<br>
+				<span class="emoji">✨</span><a href="#pageTop">Back to the top</a><span class="emoji">✨</span>
 			</main>
 		</div>
 	</body>
