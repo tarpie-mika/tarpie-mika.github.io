@@ -22,14 +22,14 @@ altTitle: Games I love 💖
 			<i>Games eh?</i> 
 
 			<h1>Contents:</h1>
-			✧ <a href="#games-i-like-introduction">Introdution</a><br>
-			✧ <a href="#games-i-like-outerWilds">Outer Wilds</a><br>
-			✧ <a href="#games-i-like-yakuzaLAD">Yakuza: Like a Dragon</a><br>
-			✧ <a href="#games-i-like-tunic">Tunic</a><br>
-			✧ <a href="#games-i-like-factorio">Factorio</a><br>
+			✧ <a href="#games-i-love-introduction">Introdution</a><br>
+			✧ <a href="#games-i-love-outerWilds">Outer Wilds</a><br>
+			✧ <a href="#games-i-love-tunic">Tunic</a><br>
+			✧ <a href="#games-i-love-yakuzaLAD">Yakuza: Like a Dragon</a><br>
+			✧ <a href="#games-i-love-factorio">Factorio</a><br>
 		</p>
 		<div class="boxInvis">
-			<h1 id="games-i-like-introduction"><u>Introduction</u></h1>
+			<h1 id="games-i-love-introduction"><u>Introduction</u></h1>
 			So, I play a lot of games. Not as many as some, but maybe more than average? Point is I like a good gaming
 			experience, and while I'm no great writer, I'll write a bit about my favourites here. Picking favourites can be hard, so it won't be
 			and exhaustive list, but I'll try to keep it updated if I stumble upon something that really stands out. I guess
@@ -39,11 +39,11 @@ altTitle: Games I love 💖
 		<table cellpadding="0px" cellspacing="0">
 			<tr>
 				<td style="align-content: start">
-					<div class="boxPink">
+					<div class="boxPink" style="padding-bottom: 5px;">
 						<!--########################################################################################################-->
-						<h1 id="games-i-like-outerWilds"><u>Outer Wilds</u></h1>
+						<h1 id="games-i-love-outerWilds" style="margin-top: -5px;"><u>Outer Wilds</u></h1>
 						<h3 style="margin-top: -25px;">... and Echoes of the Eye</h3>
-						<img src="/misc/games-i-like/outerWildsBanner.png" width="700">
+						<img src="/misc/games-i-love/outerWildsBanner.png" width="700">
 						<br><br>
 
 						I don't think I can name one other game that evoked the same feelings in me that this game did.
@@ -67,9 +67,9 @@ altTitle: Games I love 💖
 
 						
 						<!--########################################################################################################-->
-						<h1 id="games-i-like-yakuzaLAD"><u>Yakuza: Like a Dragon</u></h1>
+						<h1 id="games-i-love-yakuzaLAD"><u>Yakuza: Like a Dragon</u></h1>
 						<h3 style="margin-top: -25px;">... unlikely friendships in lonely times</h3>
-						<img src="/misc/games-i-like/likeADragonBanner.png" width="700">
+						<img src="/misc/games-i-love/likeADragonBanner.png" width="700">
 						<br><br>
 
 						I got this game in April of 2021. A year after the covid lockdowns started. Uni was doing online courses, I couldn't see my friends properly
@@ -86,15 +86,26 @@ altTitle: Games I love 💖
 						Not many too advanced mechanics, which some might deem a flaw, but I really loved it.
 						<br><br>
 						
-						Thank you Ichiban. Thank you RGG Studio. For giving me friends when I felt like I had none. 
+						Thank you Ichiban. Thank you RGG Studio. For giving me friends when I felt like I had none.
+						<br><br><br><br>
+
+						
+						<!--########################################################################################################-->
+						<h1 id="games-i-love-yakuzaLAD"><u>Minecraft</u></h1>
+						<h3 style="margin-top: -25px;">... the kids yearn for the mines</h3>
+						<img src="/misc/games-i-love/placeholderBanner.png" width="700">
+						<br><br>
+
+						Still collecting my thoughts...
+
 					</div>
 				</td>
 				<!--##################################### COLUMN SPLIT ###################################################################-->
 				<td style="align-content: start">
-					<div class="boxPink" style="margin-left: 10px;">
-						<h1 id="games-i-like-tunic"><u>Tunic</u></h1>
+					<div class="boxPink" style="margin-left: 10px;padding-bottom: 5px;">
+						<h1 id="games-i-love-tunic" style="margin-top: -5px;"><u>Tunic</u></h1>
 						<h3 style="margin-top: -25px;">... the secret legend</h3>
-						<img src="/misc/games-i-like/tunicBanner.png" width="700">
+						<img src="/misc/games-i-love/tunicBanner.png" width="700">
 						<br><br>
 
 						You wake up in a mysterious land. A little fox, you and your stick. The people all speak a mysterious language, you explore your surroundings,
@@ -121,9 +132,9 @@ altTitle: Games I love 💖
 
 						
 						<!--########################################################################################################-->
-						<h1 id="games-i-like-factorio"><u>Factorio</u></h1>
+						<h1 id="games-i-love-factorio"><u>Factorio</u></h1>
 						<h3 style="margin-top: -25px;">... the factory must grow</h3>
-						<img src="/misc/games-i-like/factorioBanner.png" width="700">
+						<img src="/misc/games-i-love/factorioBanner.png" width="700">
 						<br><br>
 
 						I see them when I close my eyes... the belts... the factory... the train tracks... in all of its glory!
@@ -155,8 +166,6 @@ altTitle: Games I love 💖
 				</td>
 			</tr>
 		</table>
-
-		
 			<!-- make some better columns girl-->
 			<!-- terraria, minecraft-->
 	</body>
