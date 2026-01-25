@@ -27,6 +27,8 @@ altTitle: Games I love 💖
 			✧ <a href="#games-i-love-tunic">Tunic</a><br>
 			✧ <a href="#games-i-love-yakuzaLAD">Yakuza: Like a Dragon</a><br>
 			✧ <a href="#games-i-love-factorio">Factorio</a><br>
+			✧ <a href="#games-i-love-minecraft">Minecraft</a><br>
+			✧ <a href="#games-i-love-guitarHero">Guitar Hero</a><br>
 		</p>
 		<div class="boxInvis">
 			<h1 id="games-i-love-introduction"><u>Introduction</u></h1>
@@ -91,7 +93,7 @@ altTitle: Games I love 💖
 
 						
 						<!--########################################################################################################-->
-						<h1 id="games-i-love-yakuzaLAD"><u>Minecraft</u></h1>
+						<h1 id="games-i-love-minecraft"><u>Minecraft</u></h1>
 						<h3 style="margin-top: -25px;">... the kids yearn for the mines</h3>
 						<img src="/misc/games-i-love/placeholderBanner.png" width="700">
 						<br><br>
@@ -162,6 +164,18 @@ altTitle: Games I love 💖
 						<br><br>
 
 						Shoot for the stars, engineer.
+						<br><br><br><br>
+
+						
+						<!--########################################################################################################-->
+						<h1 id="games-i-love-guitarHero"><u>Guitar Hero</u></h1>
+						<h3 style="margin-top: -25px;">... and my taste in music</h3>
+						<img src="/misc/games-i-love/placeholderBanner.png" width="700">
+						<br><br>
+
+						Still collecting my thoughts...
+
+						<!--my taste in music, my uncle, Peter, and the clone hero community-->
 					</div>
 				</td>
 			</tr>
