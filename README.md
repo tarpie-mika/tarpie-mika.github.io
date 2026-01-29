@@ -1,12 +1,8 @@
-# demo-eleventy-from-scratch-blog
+# Hi, welcome to the repo for my website!
 
-Companion code to the “6 Minutes to Build a Blog from Scratch” tutorial: https://www.youtube.com/watch?v=kzf9A9tkkl4
+The website is originally based on the code from this tutorial:
+“6 Minutes to Build a Blog from Scratch”: https://www.youtube.com/watch?v=kzf9A9tkkl4
 
-Run this:
+I'm just adding stuff over time, random little things that I find funny in the moment.
 
-```
-npm install
-npm start
-```
-
-Navigate to `http://localhost:8080/` in your web browser.
+Thanks for having a look :)
