@@ -29,6 +29,7 @@ altTitle: Games I love 💖
 			✧ <a href="#games-i-love-factorio">Factorio</a><br>
 			✧ <a href="#games-i-love-minecraft">Minecraft</a><br>
 			✧ <a href="#games-i-love-guitarHero">Guitar Hero</a><br>
+			✧ <a href="#games-i-love-terraria">Terraria</a><br>
 		</p>
 		<div class="boxInvis">
 			<h1 id="games-i-love-introduction"><u>Introduction</u></h1>
@@ -95,6 +96,16 @@ altTitle: Games I love 💖
 						<!--########################################################################################################-->
 						<h1 id="games-i-love-minecraft"><u>Minecraft</u></h1>
 						<h3 style="margin-top: -25px;">... the kids yearn for the mines</h3>
+						<img src="/misc/games-i-love/placeholderBanner.png" width="700">
+						<br><br>
+
+						Still collecting my thoughts...
+						<br><br><br><br>
+
+						
+						<!--########################################################################################################-->
+						<h1 id="games-i-love-terraria"><u>Terraria</u></h1>
+						<h3 style="margin-top: -25px;">... a labour of love</h3>
 						<img src="/misc/games-i-love/placeholderBanner.png" width="700">
 						<br><br>
 

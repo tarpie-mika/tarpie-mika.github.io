@@ -15,7 +15,7 @@ youarehere:        ^ you are here
         
         <br>
         Hi I'm Mika (or Tarpie)!<br>
-        She/her/it, pan🍳<br>
+        She/her/it, pan🍳, Danish<br>
                 
         <img src="/about/mika.jpg" width="300" alt="Picture of Mika"> <-- that's me! (✿◕‿◕✿)
  
