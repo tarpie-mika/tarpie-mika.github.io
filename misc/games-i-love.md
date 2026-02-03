@@ -99,7 +99,14 @@ altTitle: Games I love 💖
 						<img src="/misc/games-i-love/placeholderBanner.png" width="700">
 						<br><br>
 
-						Still collecting my thoughts...
+						May 10, 2010... summer potluck at the local youth club... The others were playing this weird little block game. Still in
+						the "Infdev" stage, whatever that meant back then. My parents made me wait three weeks with buying it, cus what if "I only played it
+						for a week and lost interest". But for those three weeks, I did nothing else, and a mere 10 euros and probably more than 10,000
+						hours later, here we are. I have never played a game for longer than this. Not in terms of in-game time nor how many years
+						has passed in real life and me still coming back for more. It's been a part of every stage of my life since I was 11 years old.
+						As of writing (03.02.2026) I am 27.
+
+						Still collecting my thoughts... 
 						<br><br><br><br>
 
 						
