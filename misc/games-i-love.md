@@ -138,9 +138,9 @@ altTitle: Games I love 💖
 						<br><br>
 
 						You'll quickly find out that the language the people of this land speak -- the same language that the manual is written in -- is not so straight
-						forward. I had a lot of fun with this game, even when I was not actually playing it. I had a printout of the manual pages we had found and spend
+						forward. I had a lot of fun with this game, even when I was not actually playing it. I had a printout of the manual pages we had found and spent
 						my commute translating it into a little notebook, solving the secrets of this game. It did what very few games before or since has done for me:
-						It bled into my real world. And that really is something special when a game manages that. Not just thinking about the game, but interacting with it
+						it bled into my real world. And that really is something special when a game manages that. Not just thinking about the game, but interacting with it
 						outside of the PC. 
 						<br><br>
 
@@ -199,6 +199,5 @@ altTitle: Games I love 💖
 			</tr>
 		</table>
 			<!-- make some better columns girl-->
-			<!-- terraria, minecraft-->
 	</body>
 </html>
