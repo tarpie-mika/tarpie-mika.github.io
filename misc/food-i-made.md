@@ -25,7 +25,7 @@ youarehere:                                ^ you 
 			<h1>Contents:</h1>
 			✧ <a href="#food-i-made-introduction">Introdution</a><br>
 			✧ <a href="#food-i-made-mangoChiliSauce">Mango chili sauce</a><br>
-			✧ <a href="#food-i-made-placeholder">Coming soon</a><br>
+			✧ <a href="#food-i-made-sammiPasta">Pasta à la Sammi</a><br>
 			✧ <a href="#food-i-made-placeholder">Coming soon</a><br>
 			✧ <a href="#food-i-made-placeholder">Coming soon</a><br>
 			✧ <a href="#food-i-made-placeholder">Coming soon</a><br>
@@ -83,7 +83,7 @@ youarehere:                                ^ you 
 
 						
 						<!--########################################################################################################-->
-						<h1 id="food-i-made-placeholder"><u>Coming soon</u></h1>
+						<h1 id="food-i-made-sammiPasta"><u>Pasta à la Sammi</u></h1>
 						<img src="/misc/food-i-made/placeholderBanner.png" width="700">
 						<br><br>
 
