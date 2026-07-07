@@ -26,7 +26,7 @@ youarehere:                                ^ you 
 			✧ <a href="#food-i-made-introduction">Introdution</a><br>
 			✧ <a href="#food-i-made-mangoChiliSauce">Mango chili sauce</a><br>
 			✧ <a href="#food-i-made-sammiPasta">Pasta à la Sammi</a><br>
-			✧ <a href="#food-i-made-placeholder">Coming soon</a><br>
+			✧ <a href="#food-i-made-kiwiBurrito">Kiwi's breakfast burritos</a><br>
 			✧ <a href="#food-i-made-placeholder">Coming soon</a><br>
 			✧ <a href="#food-i-made-placeholder">Coming soon</a><br>
 			✧ <a href="#food-i-made-placeholder">Coming soon</a><br>
@@ -46,7 +46,7 @@ youarehere:                                ^ you 
 						<img src="/misc/food-i-made/MangoChiliSauce.jpg" width="700">
 						<br><br>
 
-                        A sweet and balanced mango chili sauce. Use for dipping or for glazing.
+                        A sweet and balanced mango chili sauce. Use for dipping or for glazing. With help from Flora <span class="emoji">❤️</span> 
                         <div class="dividingLine"></div>
                         <u><b>Ingredients:</b></u><br>
                         - 1 large mango, finely chopped<br>
@@ -63,7 +63,7 @@ youarehere:                                ^ you 
                         - A few spoons<br>
                         - A pot<br>
                         - A bowl<br>
-                        - A fine meshed sieve<br>
+                        - A fine meshed sieve or a blender<br>
 
                         <br><u><b>Process:</b></u><br>
                         Heat the oil in a small to medium pot. When the oil is hot, pour in szechuan pepper corns and chili flakes. If you are not 
@@ -72,8 +72,8 @@ youarehere:                                ^ you 
                         When chili powder and pepper corns has simmered, pour in mango, fresh chilies, vinegar, and salt. Let that simmer for 15-20 minutes.
                         If you are using a blender, you probably don't need to simmer for more than 10.<br>
 
-                        Take out the szechuan pepper corns, and do one of the following two things: Using the sieve and a spoon, mush the mixture through
-                        and into a bowl. Or blend it. Up to you.<br>
+                        Now do one of the following two things: take out the szechaun pepper corns, and using the sieve and a spoon, mush the mixture through
+                        and into a bowl. Or leave the szechuan in and blend it. Up to you.<br>
 
                         After blending or mushing, put the paste back into a pot, and set it to low heat. Mix in honey and lime. Salt further to taste. If the 
                         sauce is not emulsified, add a bit more lime and honey.<br>
@@ -92,7 +92,7 @@ youarehere:                                ^ you 
 
 						
 						<!--########################################################################################################-->
-						<h1 id="food-i-made-placeholder"><u>Coming soon</u></h1>
+						<h1 id="food-i-made-kiwiBurrito"><u>Kiwi's breakfast burritos</u></h1>
 						<img src="/misc/food-i-made/placeholderBanner.png" width="700">
 						<br><br>
 
