@@ -25,9 +25,9 @@ youarehere:                                ^ you 
 			<h1>Contents:</h1>
 			✧ <a href="#food-i-made-introduction">Introdution</a><br>
 			✧ <a href="#food-i-made-mangoChiliSauce">Mango chili sauce</a><br>
+			✧ <a href="#food-i-made-homemadeSalsa">Homemade salsa</a><br>
 			✧ <a href="#food-i-made-sammiPasta">Pasta à la Sammi</a><br>
 			✧ <a href="#food-i-made-kiwiBurrito">Kiwi's breakfast burritos</a><br>
-			✧ <a href="#food-i-made-placeholder">Coming soon</a><br>
 			✧ <a href="#food-i-made-placeholder">Coming soon</a><br>
 			✧ <a href="#food-i-made-placeholder">Coming soon</a><br>
 			✧ <a href="#food-i-made-placeholder">Coming soon</a><br>
@@ -112,7 +112,7 @@ youarehere:                                ^ you 
 				<!--##################################### COLUMN SPLIT ###################################################################-->
 				<td style="align-content: start">
 					<div class="boxPink" style="margin-left: 10px;padding-bottom: 5px;">
-						<h1 id="food-i-made-placeholder" style="margin-top: -5px;"><u>Coming soon</u></h1>
+						<h1 id="food-i-made-homemadeSalsa" style="margin-top: -5px;"><u>Homemade salsa</u></h1>
 						<img src="/misc/food-i-made/placeholderBanner.png" width="700">
 						<br><br>
 
