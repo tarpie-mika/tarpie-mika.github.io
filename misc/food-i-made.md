@@ -72,7 +72,7 @@ youarehere:                                ^ you 
                         When chili powder and pepper corns has simmered, pour in mango, fresh chilies, vinegar, and salt. Let that simmer for 15-20 minutes.
                         If you are using a blender, you probably don't need to simmer for more than 10.<br>
 
-                        Now do one of the following two things: take out the szechaun pepper corns, and using the sieve and a spoon, mush the mixture through
+                        Now do one of the following two things: take out the szechuan pepper corns, and using the sieve and a spoon, mush the mixture through
                         and into a bowl. Or leave the szechuan in and blend it. Up to you.<br>
 
                         After blending or mushing, put the paste back into a pot, and set it to low heat. Mix in honey and lime. Salt further to taste. If the 
