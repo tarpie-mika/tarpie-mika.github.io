@@ -2,6 +2,7 @@
 title: I think I might be gay
 altTitle: I think I might be gay
 description: <span class="emoji">🏳️‍🌈🏳️‍⚧️</span> Mum, I'm a faggot
+date: 2026-01-09
 ---
 
 <html lang="en">
