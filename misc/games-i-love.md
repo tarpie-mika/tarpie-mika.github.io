@@ -97,7 +97,7 @@ youarehere:                  ^ you are here
 						<!--########################################################################################################-->
 						<h1 id="games-i-love-minecraft"><u>Minecraft</u></h1>
 						<h3 style="margin-top: -25px;">... the kids yearn for the mines</h3>
-						<img src="/misc/games-i-love/placeholderBanner.png" width="700">
+						<img src="/homeMedia/placeholderBanner.png" width="700">
 						<br><br>
 
 						May 10, 2010... summer potluck at the local youth club... The others were playing this weird little block game. Still in
@@ -114,7 +114,7 @@ youarehere:                  ^ you are here
 						<!--########################################################################################################-->
 						<h1 id="games-i-love-terraria"><u>Terraria</u></h1>
 						<h3 style="margin-top: -25px;">... a labour of love</h3>
-						<img src="/misc/games-i-love/placeholderBanner.png" width="700">
+						<img src="/homeMedia/placeholderBanner.png" width="700">
 						<br><br>
 
 						Still collecting my thoughts...
@@ -189,7 +189,7 @@ youarehere:                  ^ you are here
 						<!--########################################################################################################-->
 						<h1 id="games-i-love-guitarHero"><u>Guitar Hero</u></h1>
 						<h3 style="margin-top: -25px;">... and my taste in music</h3>
-						<img src="/misc/games-i-love/placeholderBanner.png" width="700">
+						<img src="/homeMedia/placeholderBanner.png" width="700">
 						<br><br>
 
 						Still collecting my thoughts...

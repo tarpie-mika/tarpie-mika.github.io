@@ -84,7 +84,7 @@ youarehere:                                ^ you 
 						
 						<!--########################################################################################################-->
 						<h1 id="food-i-made-sammiPasta"><u>Pasta à la Sammi</u></h1>
-						<img src="/misc/food-i-made/placeholderBanner.png" width="700">
+						<img src="/homeMedia/placeholderBanner.png" width="700">
 						<br><br>
 
 						
@@ -93,7 +93,7 @@ youarehere:                                ^ you 
 						
 						<!--########################################################################################################-->
 						<h1 id="food-i-made-kiwiBurrito"><u>Kiwi's breakfast burritos</u></h1>
-						<img src="/misc/food-i-made/placeholderBanner.png" width="700">
+						<img src="/homeMedia/placeholderBanner.png" width="700">
 						<br><br>
 
 						
@@ -102,7 +102,7 @@ youarehere:                                ^ you 
 						
 						<!--########################################################################################################-->
 						<h1 id="food-i-made-placeholder"><u>Coming soon</u></h1>
-						<img src="/misc/food-i-made/placeholderBanner.png" width="700">
+						<img src="/homeMedia/placeholderBanner.png" width="700">
 						<br><br>
 
 						
@@ -113,7 +113,7 @@ youarehere:                                ^ you 
 				<td style="align-content: start">
 					<div class="boxPink" style="margin-left: 10px;padding-bottom: 5px;">
 						<h1 id="food-i-made-homemadeSalsa" style="margin-top: -5px;"><u>Homemade salsa</u></h1>
-						<img src="/misc/food-i-made/placeholderBanner.png" width="700">
+						<img src="/homeMedia/placeholderBanner.png" width="700">
 						<br><br>
 
 						
@@ -122,7 +122,7 @@ youarehere:                                ^ you 
 						
 						<!--########################################################################################################-->
 						<h1 id="food-i-made-placeholder"><u>Coming soon</u></h1>
-						<img src="/misc/food-i-made/placeholderBanner.png" width="700">
+						<img src="/homeMedia/placeholderBanner.png" width="700">
 						<br><br>
 
 						
@@ -131,7 +131,7 @@ youarehere:                                ^ you 
 						
 						<!--########################################################################################################-->
 						<h1 id="food-i-made-placeholder"><u>Coming soon</u></h1>
-						<img src="/misc/food-i-made/placeholderBanner.png" width="700">
+						<img src="/homeMedia/placeholderBanner.png" width="700">
 						<br><br>
 
                         
