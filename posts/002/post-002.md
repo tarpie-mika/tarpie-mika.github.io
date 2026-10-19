@@ -25,7 +25,7 @@ date: 2026-10-19
 			
 		</p>
 		<div class="boxInvis">
-			<h1><u>{{ page.date | date: '%b %d, %Y', 'UCT' }}: I read a book</u></h1>
+			<h1><u>{{ page.date | date: '%m %d, %Y', 'UCT' }}: I read a book</u></h1>
 			A couple months ago, or maybe more like half a year ago by now if memory serves, my girlfriend and I went to
 			watch a film on a whim because we did not know what to do that evening. We just looked up what was showing at the time,
 			and picked something that seemed interesting. Most if it was "eeeeh", but this one film caught my eye. I had heard good things
