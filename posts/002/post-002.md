@@ -1,7 +1,7 @@
 ---
 title: So, I read a book
 description: for the first time in years...
-date: 2026-10-19
+date: 2026-09-19
 ---
 
 <html lang="en">
