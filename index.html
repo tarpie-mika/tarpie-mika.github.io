@@ -11,25 +11,29 @@ youarehere:  ^ you are here
 			<img src="/homeMedia/sausage.gif" height="100" width="100" />
 			<br><br>
 			
+			<!--##################################### PAGES ###################################################################-->
 			<u><h2>Pages:</h2></u>
 			{% for misc in collections.misc %}
 			<h3 style="margin-top: -0px;">✧ <a href="{{ misc.url }}">{{ misc.data.title }}</a></h3>
 			{% endfor %}
 			<br><br>
 
+			<!--##################################### BLOG POSTS ###################################################################-->
 			<u><h2>Blog posts:</h2></u>
 			{% for post in collections.post %}
-			<h3 style="margin-top: -0px;">✧ <a href="{{ post.data.date | date: '%b %d, %Y', 'UCT' }}: {{ post.url }}">{{ post.data.title }}</a></h3>
+			<h3 style="margin-top: -0px;">✧ <a href="{{ post.url }}">{{ post.data.date | date: '%b %d, %Y', 'UCT' }}: {{ post.data.title }}</a></h3>
 			<p style="margin-top: -20px;">&nbsp;&nbsp;&nbsp;&nbsp;{{ post.data.description }}</p>
 			{% endfor %}
-			
 			<br><br>
+
+			<!--##################################### LINKS FOR FRIENDS ###################################################################-->
 			<p>
 				<b>Visit my friends!</b><br>
 				<span class="emoji">✨</span> <a href="https://skejs.eu/">Ember</a> (thank you for your help with this)<br>
 				<span class="emoji">🌸</span> <a href="https://kupo.pet/">Kupo</a>
 			</p>
 
+			<!--##################################### SOCIALS ###################################################################-->
 			<br><br>
 			<div class="boxPinkTopBottom">
 				<b>Socials, go follow me elsewhere!</b><br>
@@ -63,6 +67,7 @@ youarehere:  ^ you are here
 				</div>
 			</div>
 
+			<!--##################################### BANNERS ###################################################################-->
 			<br><br>
 			<img src="homeMedia/banners/e2v2-88x31.gif" height="31px" width="88px" alt="Powered by estrogen">
 			<a href="https://enchor.us/"><img src="homeMedia/banners/guitarHeroGif.gif" height="31px" width="88px" alt="Guitar Hero frets"></a>
