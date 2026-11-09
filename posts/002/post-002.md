@@ -38,7 +38,7 @@ date: 2026-10-19
 					<div class="boxPink" style="padding-bottom: 5px;">
 						<h1 style="margin-top: -5px;"><u>Project Hail Mary</u></h1>
 						<h3 style="margin-top: -25px;">amaze amaze amaze</h3>
-						<img src="/homeMedia/placeholderBanner.png" width="700">
+						<img src="/posts/002/projectHailMary.png" width="700">
 						<br><br>
 
 						We went in with basically no expectations, and what we got was better than I had imagined. I love this film and I have 
