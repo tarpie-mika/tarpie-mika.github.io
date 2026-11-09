@@ -47,7 +47,7 @@ date: 2026-11-09
 
             Du har vist mig, at lige meget hvad livet smider vores vej af svære tider, så kan man altid finde glæden igen, og finde måder at nyde livet på. 
 
-            Du har kæmpet, og nu kan du hvile roligt. Vi skal nok passe på din kære mand. Hvor end du er, håber jeg at du har det godt.
+            Du har kæmpet længe, og nu kan du endelig hvile roligt. Vi skal nok passe på din kære mand. Hvor end du er, håber jeg at du har det godt.
 
             Jeg elsker dig, og jeg vil for altid sætte pris på det som du har givet mig. 
 
