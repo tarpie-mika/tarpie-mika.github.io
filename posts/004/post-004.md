@@ -1,5 +1,6 @@
 ---
 title: Til Bedstemor
+altTitle: Til Bedstemor
 description: jeg elsker dig
 date: 2026-11-09
 ---

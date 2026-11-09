@@ -1,5 +1,6 @@
 ---
 title: So, I read a book
+altTitle: So, I read a book
 description: for the first time in years...
 date: 2026-10-19
 ---

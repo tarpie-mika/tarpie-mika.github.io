@@ -1,5 +1,6 @@
 ---
 title: I finally feel wanted
+altTitle: I finally feel wanted
 description: transitioning and finding my true self
 date: 2026-10-26
 ---
