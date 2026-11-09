@@ -33,7 +33,7 @@ date: 2026-11-09
             Du var altid den glade mormor, som havde bagt kage, boller, kranse, ja alt muligt. Du har skabt minder for mig som jeg aldrig vil glemme. Alle turene 
             til Sverige med dig og Bedstefar vil for altid være et kært minde. Der er specielt én aften som står ud i min hukommelse lige nu, og det er måske 
             delvist min (fortsatte) kærlighed for LEGO, men jeg vil aldrig glemme at du sad oppe med mig en sen aften i Sverige, ude i køkkenet, samme dag som 
-            vi ankom, fordi jeg synes at min nye LEGO båd skulle samles. Hvis jeg ikke tager meget fejl var det sæt 4669-1, fra 2004, så jeg kan ikke have 
+            vi ankom, fordi jeg syntes at min nye LEGO båd skulle samles <i>nu</i>. Hvis jeg ikke tager meget fejl var det sæt 4669-1, fra 2004, så jeg kan ikke have 
             været meget mere end 6-7 år gammel. 
 
             Og selvom at André og jeg måske ikke altid var lige tilstedeværende (du ved hvordan unge mennesker kan være), så var det altid hyggeligt at 
