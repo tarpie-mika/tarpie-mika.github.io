@@ -58,7 +58,7 @@ date: 2026-11-09
             Dit ældste barnebarn,<br>
             Mika
 
-            <img src="/posts/004/jul2025.jpg" alt="24.12.2026, Polaroid af jul med familien" width="700">
+            <img src="/posts/004/jul2025.jpg" alt="24.12.2025, Polaroid af jul med familien" width="700">
 		</div>
 	</body>
 </html>
