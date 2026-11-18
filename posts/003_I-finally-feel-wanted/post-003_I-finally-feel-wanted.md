@@ -33,14 +33,22 @@ date: 2026-10-26
 				<td style="align-content: start">
 					<div class="boxPink" style="padding-bottom: 5px;">
 						<h1 style="margin-top: -5px;"><u>Finding myself</u></h1>
-						<h3 style="margin-top: -25px;">woah I have tiddies now!</h3>
+						<h3 style="margin-top: -25px;">I want tiddies...</h3>
 
 						Come back later...
 						<br><br><br><br>
 
 
+						<h1 style="margin-top: -5px;"><u>Who I am</u></h1>
+						<h3 style="margin-top: -25px;">woah I have tiddies now!</h3>
+
+						Like a lot later...
+						<!-- i have community now -->
+						<br><br><br><br>
+
+
 						<h1 style="margin-top: -5px;"><u>Feeling wanted</u></h1>
-						<h3 style="margin-top: -25px;">woah she have tiddies now!</h3>
+						<h3 style="margin-top: -25px;">woah she has tiddies now!</h3>
 
 						I'll have more to say...
 						
