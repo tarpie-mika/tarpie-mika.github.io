@@ -21,7 +21,12 @@ youarehere:        ^ you are here
  
         <div class="boxPink"> 
             I'm just a gal in my 20's living my best doggy tranny life.<br>
-            I have a background in electrical engineering, and work with trains(!!). I have two 3d printers, 
+            I have a background in electrical engineering, and work with trains(!!).<br>
+
+            I play games, I play nerf, and I want to get back into airsoft. I also play mahjong, and you can always find me at any local convention in 
+            the boardgame room doing just that.
+            
+            I have two 3d printers, 
             a good old Prusa i3 MK3, and a newer Prusa CORE ONE kit. I would include a picture of them but the workshop is really messy right now... ^^'<br>
             <div style="font-size: 12px;">EDIT, august 2026: I no longer have a workshop, as I had to move to a smaller apartment :(</div>
             <br>
